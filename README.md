@@ -1,2 +1,2 @@
-# Javascript30_Coding_Challenge
-30 Days Vanilla Javascript Coding Challenge.
+# Javascript_Coding_Challenge
+Vanilla Javascript Coding Challenge.
